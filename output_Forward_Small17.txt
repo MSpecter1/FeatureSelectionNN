@@ -1,0 +1,5 @@
+Starting Search:
+Default Rate =  0.808
+Level:  1
+ -  Adding  1  to feature set: Accuracy of set  {1} : 0.835
+ -  Adding  2  to feature set: Accuracy of set  {2} : 

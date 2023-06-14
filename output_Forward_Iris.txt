@@ -1,0 +1,28 @@
+Starting Search:
+Default Rate =  0.3333333333333333
+Level:  0
+ -  Adding  0  to feature set: Accuracy of set  {0} : 0.4266666666666667
+ -  Adding  1  to feature set: Accuracy of set  {1} : 0.3933333333333333
+ -  Adding  2  to feature set: Accuracy of set  {2} : 0.7533333333333333
+ -  Adding  3  to feature set: Accuracy of set  {3} : 0.5666666666666667
+Adding  2 ,  {2}  accuracy is  0.7533333333333333 
+
+Level:  1
+ -  Adding  0  to feature set: Accuracy of set  {0, 2} : 0.9066666666666666
+ -  Adding  1  to feature set: Accuracy of set  {1, 2} : 0.9333333333333333
+ -  Adding  3  to feature set: Accuracy of set  {2, 3} : 0.9
+Adding  1 ,  {1, 2}  accuracy is  0.9333333333333333 
+
+Level:  2
+ -  Adding  0  to feature set: Accuracy of set  {0, 1, 2} : 0.9333333333333333
+ -  Adding  3  to feature set: Accuracy of set  {1, 2, 3} : 0.9533333333333334
+Adding  3 ,  {1, 2, 3}  accuracy is  0.9533333333333334 
+
+Level:  3
+ -  Adding  0  to feature set: Accuracy of set  {0, 1, 2, 3} : 0.96
+Adding  0 ,  {0, 1, 2, 3}  accuracy is  0.96 
+
+SOLUTION:  0.96
+{0, 1, 2, 3}
+0
+Execution Time:  0.8361306190490723

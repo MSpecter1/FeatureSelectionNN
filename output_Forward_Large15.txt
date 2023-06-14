@@ -1,0 +1,71 @@
+Starting Search:
+Default Rate =  0.8195
+Level:  1
+ -  Adding  1  to feature set: Accuracy of set  {1} : 0.7065
+ -  Adding  2  to feature set: Accuracy of set  {2} : 0.6975
+ -  Adding  3  to feature set: Accuracy of set  {3} : 0.7005
+ -  Adding  4  to feature set: Accuracy of set  {4} : 0.7305
+ -  Adding  5  to feature set: Accuracy of set  {5} : 0.711
+ -  Adding  6  to feature set: Accuracy of set  {6} : 0.7095
+ -  Adding  7  to feature set: Accuracy of set  {7} : 0.706
+ -  Adding  8  to feature set: Accuracy of set  {8} : 0.69
+ -  Adding  9  to feature set: Accuracy of set  {9} : 0.7025
+ -  Adding  10  to feature set: Accuracy of set  {10} : 0.7095
+ -  Adding  11  to feature set: Accuracy of set  {11} : 0.7055
+ -  Adding  12  to feature set: Accuracy of set  {12} : 0.701
+ -  Adding  13  to feature set: Accuracy of set  {13} : 0.6845
+ -  Adding  14  to feature set: Accuracy of set  {14} : 0.7025
+ -  Adding  15  to feature set: Accuracy of set  {15} : 0.7095
+ -  Adding  16  to feature set: Accuracy of set  {16} : 0.705
+ -  Adding  17  to feature set: Accuracy of set  {17} : 0.8445
+ -  Adding  18  to feature set: Accuracy of set  {18} : 0.702
+ -  Adding  19  to feature set: Accuracy of set  {19} : 0.7105
+ -  Adding  20  to feature set: Accuracy of set  {20} : 0.7025
+Adding  17 ,  {17}  accuracy is  0.8445 
+
+Level:  2
+ -  Adding  1  to feature set: Accuracy of set  {17, 1} : 0.8465
+ -  Adding  2  to feature set: Accuracy of set  {17, 2} : 0.8565
+ -  Adding  3  to feature set: Accuracy of set  {17, 3} : 0.857
+ -  Adding  4  to feature set: Accuracy of set  {17, 4} : 0.968
+ -  Adding  5  to feature set: Accuracy of set  {17, 5} : 0.834
+ -  Adding  6  to feature set: Accuracy of set  {17, 6} : 0.8435
+ -  Adding  7  to feature set: Accuracy of set  {17, 7} : 0.848
+ -  Adding  8  to feature set: Accuracy of set  {8, 17} : 0.846
+ -  Adding  9  to feature set: Accuracy of set  {17, 9} : 0.86
+ -  Adding  10  to feature set: Accuracy of set  {17, 10} : 0.858
+ -  Adding  11  to feature set: Accuracy of set  {17, 11} : 0.8535
+ -  Adding  12  to feature set: Accuracy of set  {17, 12} : 0.852
+ -  Adding  13  to feature set: Accuracy of set  {17, 13} : 0.851
+ -  Adding  14  to feature set: Accuracy of set  {17, 14} : 0.85
+ -  Adding  15  to feature set: Accuracy of set  {17, 15} : 0.839
+ -  Adding  16  to feature set: Accuracy of set  {16, 17} : 0.848
+ -  Adding  18  to feature set: Accuracy of set  {17, 18} : 0.838
+ -  Adding  19  to feature set: Accuracy of set  {17, 19} : 0.8345
+ -  Adding  20  to feature set: Accuracy of set  {17, 20} : 0.8445
+Adding  4 ,  {17, 4}  accuracy is  0.968 
+
+Level:  3
+ -  Adding  1  to feature set: Accuracy of set  {17, 4, 1} : 0.942
+ -  Adding  2  to feature set: Accuracy of set  {17, 2, 4} : 0.94
+ -  Adding  3  to feature set: Accuracy of set  {17, 3, 4} : 0.9445
+ -  Adding  5  to feature set: Accuracy of set  {17, 4, 5} : 0.941
+ -  Adding  6  to feature set: Accuracy of set  {17, 4, 6} : 0.9435
+ -  Adding  7  to feature set: Accuracy of set  {17, 4, 7} : 0.943
+ -  Adding  8  to feature set: Accuracy of set  {8, 17, 4} : 0.9345
+ -  Adding  9  to feature set: Accuracy of set  {17, 4, 9} : 0.949
+ -  Adding  10  to feature set: Accuracy of set  {17, 10, 4} : 0.9405
+ -  Adding  11  to feature set: Accuracy of set  {17, 11, 4} : 0.9495
+ -  Adding  12  to feature set: Accuracy of set  {17, 4, 12} : 0.9405
+ -  Adding  13  to feature set: Accuracy of set  {17, 4, 13} : 0.94
+ -  Adding  14  to feature set: Accuracy of set  {17, 4, 14} : 0.947
+ -  Adding  15  to feature set: Accuracy of set  {17, 4, 15} : 0.939
+ -  Adding  16  to feature set: Accuracy of set  {16, 17, 4} : 0.9395
+ -  Adding  18  to feature set: Accuracy of set  {17, 18, 4} : 0.959
+ -  Adding  19  to feature set: Accuracy of set  {17, 19, 4} : 0.938
+ -  Adding  20  to feature set: Accuracy of set  {17, 4, 20} : 0.943
+Adding more features decreases accuracy, ending early
+
+SOLUTION:  0.968
+{17, 4}
+Execution Time:  771.4211523532867

@@ -1,0 +1,251 @@
+Starting Search:
+Default Rate =  0.81675
+Level:  1
+ -  Adding  1  to feature set: Accuracy of set  {1} : 0.697
+ -  Adding  2  to feature set: Accuracy of set  {2} : 0.7015
+ -  Adding  3  to feature set: Accuracy of set  {3} : 0.69525
+ -  Adding  4  to feature set: Accuracy of set  {4} : 0.70075
+ -  Adding  5  to feature set: Accuracy of set  {5} : 0.7025
+ -  Adding  6  to feature set: Accuracy of set  {6} : 0.69775
+ -  Adding  7  to feature set: Accuracy of set  {7} : 0.6935
+ -  Adding  8  to feature set: Accuracy of set  {8} : 0.703
+ -  Adding  9  to feature set: Accuracy of set  {9} : 0.7
+ -  Adding  10  to feature set: Accuracy of set  {10} : 0.699
+ -  Adding  11  to feature set: Accuracy of set  {11} : 0.6985
+ -  Adding  12  to feature set: Accuracy of set  {12} : 0.7055
+ -  Adding  13  to feature set: Accuracy of set  {13} : 0.70875
+ -  Adding  14  to feature set: Accuracy of set  {14} : 0.69725
+ -  Adding  15  to feature set: Accuracy of set  {15} : 0.692
+ -  Adding  16  to feature set: Accuracy of set  {16} : 0.69675
+ -  Adding  17  to feature set: Accuracy of set  {17} : 0.69075
+ -  Adding  18  to feature set: Accuracy of set  {18} : 0.7015
+ -  Adding  19  to feature set: Accuracy of set  {19} : 0.707
+ -  Adding  20  to feature set: Accuracy of set  {20} : 0.71175
+ -  Adding  21  to feature set: Accuracy of set  {21} : 0.68775
+ -  Adding  22  to feature set: Accuracy of set  {22} : 0.698
+ -  Adding  23  to feature set: Accuracy of set  {23} : 0.68675
+ -  Adding  24  to feature set: Accuracy of set  {24} : 0.7025
+ -  Adding  25  to feature set: Accuracy of set  {25} : 0.6915
+ -  Adding  26  to feature set: Accuracy of set  {26} : 0.7005
+ -  Adding  27  to feature set: Accuracy of set  {27} : 0.70525
+ -  Adding  28  to feature set: Accuracy of set  {28} : 0.69875
+ -  Adding  29  to feature set: Accuracy of set  {29} : 0.701
+ -  Adding  30  to feature set: Accuracy of set  {30} : 0.70525
+ -  Adding  31  to feature set: Accuracy of set  {31} : 0.70025
+ -  Adding  32  to feature set: Accuracy of set  {32} : 0.7025
+ -  Adding  33  to feature set: Accuracy of set  {33} : 0.7025
+ -  Adding  34  to feature set: Accuracy of set  {34} : 0.706
+ -  Adding  35  to feature set: Accuracy of set  {35} : 0.71
+ -  Adding  36  to feature set: Accuracy of set  {36} : 0.70075
+ -  Adding  37  to feature set: Accuracy of set  {37} : 0.7145
+ -  Adding  38  to feature set: Accuracy of set  {38} : 0.705
+ -  Adding  39  to feature set: Accuracy of set  {39} : 0.7045
+ -  Adding  40  to feature set: Accuracy of set  {40} : 0.696
+ -  Adding  41  to feature set: Accuracy of set  {41} : 0.7
+ -  Adding  42  to feature set: Accuracy of set  {42} : 0.69325
+ -  Adding  43  to feature set: Accuracy of set  {43} : 0.70875
+ -  Adding  44  to feature set: Accuracy of set  {44} : 0.6845
+ -  Adding  45  to feature set: Accuracy of set  {45} : 0.69225
+ -  Adding  46  to feature set: Accuracy of set  {46} : 0.7055
+ -  Adding  47  to feature set: Accuracy of set  {47} : 0.7015
+ -  Adding  48  to feature set: Accuracy of set  {48} : 0.69925
+ -  Adding  49  to feature set: Accuracy of set  {49} : 0.70425
+ -  Adding  50  to feature set: Accuracy of set  {50} : 0.70175
+ -  Adding  51  to feature set: Accuracy of set  {51} : 0.705
+ -  Adding  52  to feature set: Accuracy of set  {52} : 0.69225
+ -  Adding  53  to feature set: Accuracy of set  {53} : 0.702
+ -  Adding  54  to feature set: Accuracy of set  {54} : 0.70925
+ -  Adding  55  to feature set: Accuracy of set  {55} : 0.7045
+ -  Adding  56  to feature set: Accuracy of set  {56} : 0.74475
+ -  Adding  57  to feature set: Accuracy of set  {57} : 0.703
+ -  Adding  58  to feature set: Accuracy of set  {58} : 0.70025
+ -  Adding  59  to feature set: Accuracy of set  {59} : 0.70175
+ -  Adding  60  to feature set: Accuracy of set  {60} : 0.69725
+ -  Adding  61  to feature set: Accuracy of set  {61} : 0.71
+ -  Adding  62  to feature set: Accuracy of set  {62} : 0.70525
+ -  Adding  63  to feature set: Accuracy of set  {63} : 0.692
+ -  Adding  64  to feature set: Accuracy of set  {64} : 0.70425
+ -  Adding  65  to feature set: Accuracy of set  {65} : 0.71325
+ -  Adding  66  to feature set: Accuracy of set  {66} : 0.696
+ -  Adding  67  to feature set: Accuracy of set  {67} : 0.71075
+ -  Adding  68  to feature set: Accuracy of set  {68} : 0.712
+ -  Adding  69  to feature set: Accuracy of set  {69} : 0.70525
+ -  Adding  70  to feature set: Accuracy of set  {70} : 0.70325
+ -  Adding  71  to feature set: Accuracy of set  {71} : 0.703
+ -  Adding  72  to feature set: Accuracy of set  {72} : 0.703
+ -  Adding  73  to feature set: Accuracy of set  {73} : 0.6875
+ -  Adding  74  to feature set: Accuracy of set  {74} : 0.6895
+ -  Adding  75  to feature set: Accuracy of set  {75} : 0.70125
+ -  Adding  76  to feature set: Accuracy of set  {76} : 0.7015
+ -  Adding  77  to feature set: Accuracy of set  {77} : 0.70275
+ -  Adding  78  to feature set: Accuracy of set  {78} : 0.68525
+ -  Adding  79  to feature set: Accuracy of set  {79} : 0.7005
+ -  Adding  80  to feature set: Accuracy of set  {80} : 0.8345
+Adding  80 ,  {80}  accuracy is  0.8345 
+
+Level:  2
+ -  Adding  1  to feature set: Accuracy of set  {80, 1} : 0.838
+ -  Adding  2  to feature set: Accuracy of set  {80, 2} : 0.84125
+ -  Adding  3  to feature set: Accuracy of set  {80, 3} : 0.843
+ -  Adding  4  to feature set: Accuracy of set  {80, 4} : 0.844
+ -  Adding  5  to feature set: Accuracy of set  {80, 5} : 0.832
+ -  Adding  6  to feature set: Accuracy of set  {80, 6} : 0.8415
+ -  Adding  7  to feature set: Accuracy of set  {80, 7} : 0.8385
+ -  Adding  8  to feature set: Accuracy of set  {80, 8} : 0.838
+ -  Adding  9  to feature set: Accuracy of set  {80, 9} : 0.84175
+ -  Adding  10  to feature set: Accuracy of set  {80, 10} : 0.83875
+ -  Adding  11  to feature set: Accuracy of set  {80, 11} : 0.8455
+ -  Adding  12  to feature set: Accuracy of set  {80, 12} : 0.843
+ -  Adding  13  to feature set: Accuracy of set  {80, 13} : 0.837
+ -  Adding  14  to feature set: Accuracy of set  {80, 14} : 0.84525
+ -  Adding  15  to feature set: Accuracy of set  {80, 15} : 0.83925
+ -  Adding  16  to feature set: Accuracy of set  {80, 16} : 0.84175
+ -  Adding  17  to feature set: Accuracy of set  {80, 17} : 0.83625
+ -  Adding  18  to feature set: Accuracy of set  {80, 18} : 0.83825
+ -  Adding  19  to feature set: Accuracy of set  {80, 19} : 0.82825
+ -  Adding  20  to feature set: Accuracy of set  {80, 20} : 0.84675
+ -  Adding  21  to feature set: Accuracy of set  {80, 21} : 0.83525
+ -  Adding  22  to feature set: Accuracy of set  {80, 22} : 0.83275
+ -  Adding  23  to feature set: Accuracy of set  {80, 23} : 0.835
+ -  Adding  24  to feature set: Accuracy of set  {80, 24} : 0.84
+ -  Adding  25  to feature set: Accuracy of set  {80, 25} : 0.83875
+ -  Adding  26  to feature set: Accuracy of set  {80, 26} : 0.82875
+ -  Adding  27  to feature set: Accuracy of set  {80, 27} : 0.83475
+ -  Adding  28  to feature set: Accuracy of set  {80, 28} : 0.83975
+ -  Adding  29  to feature set: Accuracy of set  {80, 29} : 0.83175
+ -  Adding  30  to feature set: Accuracy of set  {80, 30} : 0.84375
+ -  Adding  31  to feature set: Accuracy of set  {80, 31} : 0.849
+ -  Adding  32  to feature set: Accuracy of set  {80, 32} : 0.8435
+ -  Adding  33  to feature set: Accuracy of set  {80, 33} : 0.831
+ -  Adding  34  to feature set: Accuracy of set  {80, 34} : 0.84775
+ -  Adding  35  to feature set: Accuracy of set  {80, 35} : 0.85225
+ -  Adding  36  to feature set: Accuracy of set  {80, 36} : 0.8395
+ -  Adding  37  to feature set: Accuracy of set  {80, 37} : 0.84375
+ -  Adding  38  to feature set: Accuracy of set  {80, 38} : 0.83175
+ -  Adding  39  to feature set: Accuracy of set  {80, 39} : 0.83125
+ -  Adding  40  to feature set: Accuracy of set  {80, 40} : 0.84
+ -  Adding  41  to feature set: Accuracy of set  {80, 41} : 0.83325
+ -  Adding  42  to feature set: Accuracy of set  {80, 42} : 0.8365
+ -  Adding  43  to feature set: Accuracy of set  {80, 43} : 0.83425
+ -  Adding  44  to feature set: Accuracy of set  {80, 44} : 0.83725
+ -  Adding  45  to feature set: Accuracy of set  {80, 45} : 0.84675
+ -  Adding  46  to feature set: Accuracy of set  {80, 46} : 0.833
+ -  Adding  47  to feature set: Accuracy of set  {80, 47} : 0.852
+ -  Adding  48  to feature set: Accuracy of set  {80, 48} : 0.84
+ -  Adding  49  to feature set: Accuracy of set  {80, 49} : 0.835
+ -  Adding  50  to feature set: Accuracy of set  {80, 50} : 0.85975
+ -  Adding  51  to feature set: Accuracy of set  {80, 51} : 0.84525
+ -  Adding  52  to feature set: Accuracy of set  {80, 52} : 0.8465
+ -  Adding  53  to feature set: Accuracy of set  {80, 53} : 0.8495
+ -  Adding  54  to feature set: Accuracy of set  {80, 54} : 0.83875
+ -  Adding  55  to feature set: Accuracy of set  {80, 55} : 0.84125
+ -  Adding  56  to feature set: Accuracy of set  {80, 56} : 0.97475
+ -  Adding  57  to feature set: Accuracy of set  {80, 57} : 0.84625
+ -  Adding  58  to feature set: Accuracy of set  {80, 58} : 0.844
+ -  Adding  59  to feature set: Accuracy of set  {80, 59} : 0.8425
+ -  Adding  60  to feature set: Accuracy of set  {80, 60} : 0.8375
+ -  Adding  61  to feature set: Accuracy of set  {80, 61} : 0.8315
+ -  Adding  62  to feature set: Accuracy of set  {80, 62} : 0.84075
+ -  Adding  63  to feature set: Accuracy of set  {80, 63} : 0.83275
+ -  Adding  64  to feature set: Accuracy of set  {80, 64} : 0.844
+ -  Adding  65  to feature set: Accuracy of set  {80, 65} : 0.843
+ -  Adding  66  to feature set: Accuracy of set  {80, 66} : 0.83875
+ -  Adding  67  to feature set: Accuracy of set  {80, 67} : 0.83275
+ -  Adding  68  to feature set: Accuracy of set  {80, 68} : 0.843
+ -  Adding  69  to feature set: Accuracy of set  {80, 69} : 0.843
+ -  Adding  70  to feature set: Accuracy of set  {80, 70} : 0.839
+ -  Adding  71  to feature set: Accuracy of set  {80, 71} : 0.8465
+ -  Adding  72  to feature set: Accuracy of set  {80, 72} : 0.83275
+ -  Adding  73  to feature set: Accuracy of set  {80, 73} : 0.85
+ -  Adding  74  to feature set: Accuracy of set  {80, 74} : 0.8405
+ -  Adding  75  to feature set: Accuracy of set  {80, 75} : 0.838
+ -  Adding  76  to feature set: Accuracy of set  {80, 76} : 0.83575
+ -  Adding  77  to feature set: Accuracy of set  {80, 77} : 0.8435
+ -  Adding  78  to feature set: Accuracy of set  {80, 78} : 0.8455
+ -  Adding  79  to feature set: Accuracy of set  {80, 79} : 0.84325
+Adding  56 ,  {80, 56}  accuracy is  0.97475 
+
+Level:  3
+ -  Adding  1  to feature set: Accuracy of set  {80, 1, 56} : 0.9465
+ -  Adding  2  to feature set: Accuracy of set  {80, 56, 2} : 0.95125
+ -  Adding  3  to feature set: Accuracy of set  {80, 56, 3} : 0.9475
+ -  Adding  4  to feature set: Accuracy of set  {80, 56, 4} : 0.95
+ -  Adding  5  to feature set: Accuracy of set  {80, 56, 5} : 0.95075
+ -  Adding  6  to feature set: Accuracy of set  {80, 56, 6} : 0.9475
+ -  Adding  7  to feature set: Accuracy of set  {80, 56, 7} : 0.9495
+ -  Adding  8  to feature set: Accuracy of set  {80, 8, 56} : 0.95325
+ -  Adding  9  to feature set: Accuracy of set  {80, 9, 56} : 0.95025
+ -  Adding  10  to feature set: Accuracy of set  {80, 56, 10} : 0.94825
+ -  Adding  11  to feature set: Accuracy of set  {80, 56, 11} : 0.9485
+ -  Adding  12  to feature set: Accuracy of set  {80, 56, 12} : 0.9535
+ -  Adding  13  to feature set: Accuracy of set  {80, 56, 13} : 0.95575
+ -  Adding  14  to feature set: Accuracy of set  {80, 56, 14} : 0.955
+ -  Adding  15  to feature set: Accuracy of set  {80, 56, 15} : 0.95125
+ -  Adding  16  to feature set: Accuracy of set  {80, 16, 56} : 0.9535
+ -  Adding  17  to feature set: Accuracy of set  {80, 17, 56} : 0.95425
+ -  Adding  18  to feature set: Accuracy of set  {80, 56, 18} : 0.95375
+ -  Adding  19  to feature set: Accuracy of set  {80, 56, 19} : 0.9555
+ -  Adding  20  to feature set: Accuracy of set  {80, 56, 20} : 0.9585
+ -  Adding  21  to feature set: Accuracy of set  {80, 56, 21} : 0.95075
+ -  Adding  22  to feature set: Accuracy of set  {80, 56, 22} : 0.95025
+ -  Adding  23  to feature set: Accuracy of set  {80, 56, 23} : 0.95475
+ -  Adding  24  to feature set: Accuracy of set  {80, 24, 56} : 0.9535
+ -  Adding  25  to feature set: Accuracy of set  {80, 25, 56} : 0.957
+ -  Adding  26  to feature set: Accuracy of set  {80, 56, 26} : 0.94875
+ -  Adding  27  to feature set: Accuracy of set  {80, 56, 27} : 0.95675
+ -  Adding  28  to feature set: Accuracy of set  {80, 56, 28} : 0.95325
+ -  Adding  29  to feature set: Accuracy of set  {80, 56, 29} : 0.948
+ -  Adding  30  to feature set: Accuracy of set  {80, 56, 30} : 0.95325
+ -  Adding  31  to feature set: Accuracy of set  {80, 56, 31} : 0.955
+ -  Adding  32  to feature set: Accuracy of set  {80, 56, 32} : 0.95075
+ -  Adding  33  to feature set: Accuracy of set  {80, 33, 56} : 0.9555
+ -  Adding  34  to feature set: Accuracy of set  {80, 56, 34} : 0.95225
+ -  Adding  35  to feature set: Accuracy of set  {80, 56, 35} : 0.9575
+ -  Adding  36  to feature set: Accuracy of set  {80, 56, 36} : 0.94875
+ -  Adding  37  to feature set: Accuracy of set  {80, 56, 37} : 0.951
+ -  Adding  38  to feature set: Accuracy of set  {80, 56, 38} : 0.9515
+ -  Adding  39  to feature set: Accuracy of set  {80, 56, 39} : 0.9545
+ -  Adding  40  to feature set: Accuracy of set  {80, 56, 40} : 0.95275
+ -  Adding  41  to feature set: Accuracy of set  {80, 41, 56} : 0.953
+ -  Adding  42  to feature set: Accuracy of set  {80, 56, 42} : 0.9465
+ -  Adding  43  to feature set: Accuracy of set  {80, 56, 43} : 0.9555
+ -  Adding  44  to feature set: Accuracy of set  {80, 56, 44} : 0.9555
+ -  Adding  45  to feature set: Accuracy of set  {80, 56, 45} : 0.95425
+ -  Adding  46  to feature set: Accuracy of set  {80, 56, 46} : 0.95075
+ -  Adding  47  to feature set: Accuracy of set  {80, 56, 47} : 0.97025
+ -  Adding  48  to feature set: Accuracy of set  {80, 56, 48} : 0.9515
+ -  Adding  49  to feature set: Accuracy of set  {80, 49, 56} : 0.95875
+ -  Adding  50  to feature set: Accuracy of set  {80, 56, 50} : 0.95975
+ -  Adding  51  to feature set: Accuracy of set  {80, 56, 51} : 0.94925
+ -  Adding  52  to feature set: Accuracy of set  {80, 56, 52} : 0.957
+ -  Adding  53  to feature set: Accuracy of set  {80, 56, 53} : 0.94825
+ -  Adding  54  to feature set: Accuracy of set  {80, 56, 54} : 0.9485
+ -  Adding  55  to feature set: Accuracy of set  {80, 56, 55} : 0.9555
+ -  Adding  57  to feature set: Accuracy of set  {80, 57, 56} : 0.9535
+ -  Adding  58  to feature set: Accuracy of set  {80, 56, 58} : 0.95125
+ -  Adding  59  to feature set: Accuracy of set  {80, 56, 59} : 0.95325
+ -  Adding  60  to feature set: Accuracy of set  {80, 56, 60} : 0.9555
+ -  Adding  61  to feature set: Accuracy of set  {80, 56, 61} : 0.95275
+ -  Adding  62  to feature set: Accuracy of set  {80, 56, 62} : 0.95275
+ -  Adding  63  to feature set: Accuracy of set  {80, 56, 63} : 0.95075
+ -  Adding  64  to feature set: Accuracy of set  {80, 56, 64} : 0.9495
+ -  Adding  65  to feature set: Accuracy of set  {80, 65, 56} : 0.95325
+ -  Adding  66  to feature set: Accuracy of set  {80, 56, 66} : 0.9495
+ -  Adding  67  to feature set: Accuracy of set  {80, 56, 67} : 0.94725
+ -  Adding  68  to feature set: Accuracy of set  {80, 56, 68} : 0.9585
+ -  Adding  69  to feature set: Accuracy of set  {80, 56, 69} : 0.949
+ -  Adding  70  to feature set: Accuracy of set  {80, 56, 70} : 0.94975
+ -  Adding  71  to feature set: Accuracy of set  {80, 56, 71} : 0.951
+ -  Adding  72  to feature set: Accuracy of set  {80, 56, 72} : 0.95875
+ -  Adding  73  to feature set: Accuracy of set  {80, 73, 56} : 0.951
+ -  Adding  74  to feature set: Accuracy of set  {80, 56, 74} : 0.9495
+ -  Adding  75  to feature set: Accuracy of set  {80, 56, 75} : 0.956
+ -  Adding  76  to feature set: Accuracy of set  {80, 56, 76} : 0.95275
+ -  Adding  77  to feature set: Accuracy of set  {80, 56, 77} : 0.95475
+ -  Adding  78  to feature set: Accuracy of set  {80, 56, 78} : 0.95775
+ -  Adding  79  to feature set: Accuracy of set  {80, 56, 79} : 0.94925
+Adding more features decreases accuracy, ending early
+
+SOLUTION:  0.97475
+{80, 56}
+Execution Time:  13336.568283557892
